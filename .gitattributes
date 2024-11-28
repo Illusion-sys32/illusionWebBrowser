@@ -1,0 +1,19 @@
+# קבצי טקסט כלליים
+* text=auto
+
+# קבצי JSON
+*.json text
+
+# קבצי Python
+*.py text eol=lf
+
+# קבצי JavaScript/TypeScript
+*.js text eol=lf
+*.ts text eol=lf
+
+# קבצי HTML/CSS
+*.html text eol=lf
+*.css text eol=lf
+
+# קבצי Markdown
+*.md text eol=lf
